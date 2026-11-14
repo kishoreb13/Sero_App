@@ -1,367 +1,149 @@
-# 🚑 SERO
-### Smart Emergency Response Orchestrator
+# 🚑 S E R O
+### SMART EMERGENCY RESPONSE ORCHESTRATOR
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SERO-Next_Generation_Emergency_Tech-00C9A7?style=for-the-badge&logo=medrt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-Backend-FF9100?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Ready-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050B18,45:073B59,100:00D4FF&text=SERO&fontSize=90&fontColor=FFFFFF&fontAlignY=38&desc=ONE%20SOS.%20ONE%20COORDINATED%20RESPONSE.%20ZERO%20DELAYS.&descAlignY=60&descSize=15&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <b>ONE SOS. ONE INTELLIGENT NETWORK. FASTER EMERGENCY RESPONSE.</b>
+  <b>THE FUTURE OF EMERGENCY RESPONSE STARTS HERE.</b>
+  <br/>
+  An intelligent emergency ecosystem designed to connect people, ambulances, hospitals and traffic authorities through one coordinated platform.
 </p>
 
 <p align="center">
-  An AI-assisted, multi-stakeholder emergency response ecosystem designed to connect citizens, ambulance drivers, hospitals, traffic authorities, and administrators through one unified digital platform.
-</p>
-
----
-
-## ◈ 01 — THE VISION
-
-> **When every second matters, coordination becomes the difference.**
-
-SERO (Smart Emergency Response Orchestrator) is a next-generation emergency response platform designed to transform fragmented emergency services into a unified, intelligent, and coordinated ecosystem.
-
-Traditional emergency systems often operate in isolation. Citizens contact emergency services, ambulances navigate through traffic, hospitals prepare independently, and authorities receive limited information.
-
-SERO introduces a coordinated emergency workflow that connects all these stakeholders through a single emergency orchestration layer.
-
-From SOS activation to ambulance assignment, hospital notification, and live tracking, SERO aims to streamline the entire emergency response lifecycle.
-
-<p align="center">
-  <b>INTELLIGENCE × COORDINATION × REAL-TIME COMMUNICATION</b>
+  <img src="https://img.shields.io/badge/PLATFORM-EMERGENCY%20TECH-00D4FF?style=for-the-badge&labelColor=071525"/>
+  <img src="https://img.shields.io/badge/BUILT%20WITH-FLUTTER-42C5F5?style=for-the-badge&labelColor=071525"/>
+  <img src="https://img.shields.io/badge/LANGUAGE-DART-00A8E8?style=for-the-badge&labelColor=071525"/>
+  <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-FFC857?style=for-the-badge&labelColor=071525"/>
 </p>
 
 ---
 
-## ◈ 02 — THE PROBLEM SPACE
+## ◈ BEYOND AN EMERGENCY APP.
 
-### The Emergency Coordination Gap
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D4FF,50:146BFF,100:00D4FF" width="100%"/>
+</p>
 
-| Challenge | Conventional limitation | SERO approach |
-|---|---|---|
-| Ambulance Allocation | Manual coordination | Intelligent allocation architecture |
-| Location Detection | Location sharing delays | GPS-based location detection |
-| Hospital Coordination | Separate communication | Hospital notification workflow |
-| Traffic Management | Limited coordination | Traffic authority alerts |
-| Patient Visibility | Limited tracking | Live ambulance tracking |
-| Emergency Contacts | Manual notification | Automated notification architecture |
+An emergency is not just a situation. It is a race against time.
 
-### Why It Matters
+SERO is designed around one powerful idea: **every second matters, and every responder should be connected.**
 
-- Delayed ambulance dispatch.
-- Fragmented emergency communication.
-- Lack of centralized incident monitoring.
-- Inefficient coordination between emergency stakeholders.
-- Limited visibility into emergency progress.
+From the moment a citizen triggers an SOS to the coordination of ambulance drivers, hospitals and traffic authorities, SERO aims to bring the entire emergency response ecosystem into one intelligent digital environment.
 
-SERO aims to address these challenges through a unified emergency orchestration architecture.
+### THE SERO EXPERIENCE
+
+| <div align="center">01</div> | <div align="center">02</div> | <div align="center">03</div> | <div align="center">04</div> |
+|:---:|:---:|:---:|:---:|
+| 🚨 | 🚑 | 🏥 | 🚦 |
+| **DETECT** | **DISPATCH** | **PREPARE** | **CLEAR** |
+| SOS activation | Ambulance coordination | Hospital notification | Traffic coordination |
+
+<p align="center">
+  <b>ONE EMERGENCY. MULTIPLE RESPONDERS. ONE CONNECTED SYSTEM.</b>
+</p>
 
 ---
 
-## ◈ 03 — THE SERO ECOSYSTEM
+## ◈ THE VISUAL IDENTITY
 
-### One Platform. Four Operational Layers.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:030712,50:0B2740,100:061B2B&text=RESPONSE%20WITHOUT%20BOUNDARIES&fontSize=27&fontColor=00D4FF&fontAlignY=50" width="100%"/>
+</p>
 
-| Layer | Primary Responsibility |
+| Design element | Identity |
 |---|---|
-| 🧑 Citizen | Initiates emergency requests and tracks assistance |
-| 🚑 Ambulance Driver | Receives and manages emergency assignments |
-| 🚦 Traffic Controller | Monitors emergency movement and coordinates clearance |
-| 🛠️ Administrator | Oversees users, drivers, emergencies and analytics |
+| Primary | Electric Cyan `#00D4FF` |
+| Secondary | Deep Blue `#146BFF` |
+| Background | Midnight `#030712` |
+| Accent | Emergency Red `#FF3B55` |
+| Surface | Dark Glass `#0B1728` |
+| Typography | Modern, bold and technical |
 
-### The Connected Ecosystem
-
-```mermaid
-flowchart TB
-    A["🧑 CITIZEN"] --> B["🚨 SOS ACTIVATION"]
-    B --> C["🧠 SERO ORCHESTRATION ENGINE"]
-
-    C --> D["🚑 AMBULANCE DRIVER"]
-    C --> E["🏥 HOSPITAL"]
-    C --> F["🚦 TRAFFIC CONTROL"]
-    C --> G["📲 EMERGENCY CONTACTS"]
-
-    D --> H["📍 LIVE TRACKING"]
-    E --> H
-    F --> H
-    H --> I["🛠️ ADMIN DASHBOARD"]
-    I --> J["📊 EMERGENCY ANALYTICS"]
-```
+The visual direction represents speed, precision, connectivity and trust.
 
 ---
 
-## ◈ 04 — INTELLIGENT EMERGENCY LIFECYCLE
-
-### From Emergency Detection to Hospital Arrival
-
-The SERO emergency lifecycle is designed around a coordinated, event-driven workflow.
-
-```mermaid
-flowchart TD
-    A(["🚨 Citizen presses SOS"]) --> B["📍 Capture GPS Location"]
-    B --> C["📋 Collect Emergency Information"]
-    C --> D["🧠 Assess Emergency Severity"]
-    D --> E["🚑 Identify Available Ambulance"]
-    E --> F["Assign Emergency Mission"]
-
-    F --> G["Notify Ambulance Driver"]
-    F --> H["Notify Destination Hospital"]
-    F --> I["Alert Traffic Controller"]
-    F --> J["Notify Emergency Contacts"]
-
-    G --> K["📡 Track Ambulance"]
-    H --> K
-    I --> K
-    J --> K
-
-    K --> L["📲 Update Citizen with ETA"]
-    L --> M["🏥 Hospital Arrival"]
-    M --> N(["✅ Complete Emergency Mission"])
-```
-
-### Operational Intelligence
-
-- Location-aware emergency initiation.
-- Emergency severity assessment architecture.
-- Ambulance allocation workflow.
-- Multi-stakeholder notifications.
-- Real-time tracking architecture.
-- Emergency mission lifecycle management.
-
----
-
-## ◈ 05 — CORE PLATFORM MODULES
-
-### 🧑 CITIZEN EXPERIENCE
-
-The primary interface for initiating and monitoring emergency assistance.
-
-**Capabilities**
-
-- Secure Authentication
-- Smart SOS Activation
-- Emergency Type Selection
-- Live GPS Detection
-- Reverse Geocoding
-- Medical Profile Management
-- AI Severity Prediction — architecture ready
-- Live Ambulance Tracking
-- Assigned Hospital Details
-- Real-Time ETA Updates
-- Emergency Contact Notifications
-
-### 🚑 AMBULANCE DRIVER CONSOLE
-
-A mission-oriented interface for emergency transportation management.
-
-**Capabilities**
-
-- Real-Time Emergency Requests
-- Assigned Patient Information
-- Emergency Mission Dashboard
-- Navigation Support
-- Live Status Updates
-- Mission Completion Workflow
-
-### 🚦 TRAFFIC CONTROL CONSOLE
-
-A coordination layer designed to support emergency transportation.
-
-**Capabilities**
-
-- Active Emergency Dashboard
-- Ambulance Route Monitoring
-- Emergency Corridor Support
-- Incident Monitoring
-- Traffic Clearance Coordination
-
-### 🛠️ ADMINISTRATOR CONSOLE
-
-A centralized operational management interface.
-
-**Capabilities**
-
-- User Management
-- Driver Management
-- Emergency Monitoring
-- Analytics Dashboard
-- System Overview
-- Platform Insights
-
----
-
-## ◈ 06 — SYSTEM ARCHITECTURE
-
-### Multi-Layer Application Architecture
-
-```mermaid
-flowchart TB
-    subgraph CLIENT["PRESENTATION LAYER"]
-        A["Citizen App"]
-        B["Driver App"]
-        C["Traffic Controller"]
-        D["Admin Panel"]
-    end
-
-    subgraph APP["APPLICATION LAYER"]
-        E["Flutter / Dart"]
-        F["Provider State Management"]
-        G["Business Logic"]
-        H["Application Services"]
-    end
-
-    subgraph BACKEND["BACKEND INFRASTRUCTURE"]
-        I["Firebase Authentication"]
-        J["Cloud Firestore"]
-        K["Firebase Storage"]
-    end
-
-    subgraph SERVICES["EXTERNAL SERVICES"]
-        L["Google Maps"]
-        M["GPS / Geolocation"]
-        N["Geocoding"]
-    end
-
-    CLIENT --> APP
-    APP --> BACKEND
-    APP --> SERVICES
-```
-
-### Architecture Philosophy
-
-SERO follows a modular application architecture that separates presentation, business logic, services, data management, and external integrations.
-
-This separation supports:
-
-- Maintainability.
-- Reusable components.
-- Independent module development.
-- Scalable feature expansion.
-- Easier integration of intelligent services.
-
----
-
-## ◈ 07 — TECHNOLOGY MATRIX
-
-| Technology | Purpose |
-|---|---|
-| Flutter | Cross-platform application development |
-| Dart | Application programming language |
-| Firebase Authentication | User authentication |
-| Cloud Firestore | Cloud database |
-| Firebase Storage | File storage |
-| Google Maps | Map visualization |
-| Geolocator | GPS location detection |
-| Geocoding | Coordinate and address conversion |
-| Provider | State management |
-
-### Development Stack
+## ◈ AN ENTIRE EMERGENCY ECOSYSTEM
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,android,apple,github&theme=dark" />
 </p>
 
-### Planned Integrations
+### 🚨 CITIZEN INTERFACE
+The starting point of emergency response.
 
-- Firebase Cloud Messaging
-- Firebase Analytics
-- AI-based emergency severity prediction
-- Intelligent ambulance allocation
-- Hospital availability integration
-- Smart traffic coordination
+- Secure user authentication
+- One-touch SOS activation
+- Emergency type selection
+- GPS-based live location
+- Reverse geocoding
+- Personal medical information
+- Emergency contact information
+- Ambulance tracking and estimated arrival information
+- AI-assisted severity assessment architecture
 
----
+### 🚑 AMBULANCE DRIVER INTERFACE
+Designed to support faster emergency coordination.
 
-## ◈ 08 — DATABASE ARCHITECTURE
+- Emergency request notifications
+- Patient and emergency details
+- Location and navigation support
+- Emergency response status updates
+- Trip completion management
 
-### Cloud Firestore Collection Design
+### 🏥 HOSPITAL INTERFACE
+Designed to support hospital preparedness.
 
-```text
-FIRESTORE DATABASE
-│
-├── users/
-│   ├── userId
-│   ├── name
-│   ├── email
-│   └── medicalProfile
-│
-├── drivers/
-│   ├── driverId
-│   ├── availability
-│   └── currentLocation
-│
-├── traffic_controllers/
-│   ├── controllerId
-│   └── assignedZone
-│
-├── emergencies/
-│   ├── emergencyId
-│   ├── userId
-│   ├── location
-│   ├── severity
-│   ├── assignedDriver
-│   ├── hospital
-│   ├── status
-│   └── timestamp
-│
-└── emergency_alerts/
-    ├── alertId
-    ├── emergencyId
-    ├── recipientId
-    └── notificationStatus
-```
+- Emergency notifications
+- Patient and emergency information
+- Incoming ambulance awareness
+- Emergency coordination support
 
-*This represents the documented collection design, not a guarantee that every field or collection is already implemented.*
+### 🚦 TRAFFIC CONTROLLER INTERFACE
+Designed to support emergency route coordination.
+
+- Emergency route information
+- Traffic incident visibility
+- Emergency corridor coordination
+- Road clearance status
+- Route-related updates
+
+### ⚙️ ADMINISTRATION INTERFACE
+The central management environment.
+
+- User management
+- Driver management
+- Emergency monitoring
+- Platform analytics
+- System-level insights
 
 ---
 
-## ◈ 09 — REAL-TIME LOCATION INTELLIGENCE
+## ◈ TECHNOLOGY CORE
 
-Location awareness is a central part of SERO's emergency coordination architecture.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,git,github&theme=dark" />
+</p>
 
-### Location Processing Pipeline
-
-```mermaid
-flowchart LR
-    A["📍 GPS Coordinates"] --> B["Location Service"]
-    B --> C["Geocoding"]
-    C --> D["Emergency Location"]
-    D --> E["Ambulance Tracking"]
-    E --> F["Map Visualization"]
-```
-
-### Location Capabilities
-
-- Current GPS location detection.
-- Coordinate-to-address conversion.
-- Map-based location visualization.
-- Ambulance movement monitoring.
-- Emergency route awareness.
+| Layer | Technology |
+|---|---|
+| Application | Flutter |
+| Programming language | Dart |
+| Authentication | Firebase Authentication |
+| Database | Cloud Firestore |
+| File storage | Firebase Storage |
+| Maps | Google Maps Flutter |
+| Location | Geolocator |
+| Address conversion | Geocoding |
+| State management | Provider / Stateful Widgets |
+| Planned notifications | Firebase Cloud Messaging |
+| Planned analytics | Firebase Analytics |
 
 ---
 
-## ◈ 10 — SECURITY & RELIABILITY
-
-Emergency-related applications require careful attention to privacy, reliability, and access control.
-
-SERO's security direction includes:
-
-- Firebase Authentication.
-- Role-based access design.
-- Secure handling of user information.
-- Controlled access to emergency records.
-- Protected backend configuration.
-- Appropriate Firestore security rules.
-- Careful management of location permissions.
-
-**Production consideration:** Emergency dispatch, automated alerts, and medical response must be independently validated before real-world deployment. SERO should not be treated as a replacement for official emergency services.
-
----
-
-## ◈ 11 — PROJECT STRUCTURE
+## ◈ INSIDE THE PROJECT
 
 ```text
 SERO/
@@ -373,200 +155,110 @@ SERO/
 ├── web/
 ├── windows/
 │
-├── lib/
-│   │
-│   ├── core/
-│   │   ├── constants.dart
-│   │   └── themes.dart
-│   │
-│   ├── models/
-│   │
-│   ├── screens/
-│   │   ├── auth/
-│   │   ├── citizen/
-│   │   ├── driver/
-│   │   ├── traffic_controller/
-│   │   └── admin/
-│   │
-│   ├── services/
-│   │   ├── auth_service.dart
-│   │   ├── firestore_service.dart
-│   │   └── location_service.dart
-│   │
-│   ├── widgets/
-│   │
-│   └── main.dart
+└── lib/
+    │
+    ├── core/
+    │   ├── constants.dart
+    │   └── themes.dart
+    │
+    ├── models/
+    │
+    ├── screens/
+    │   ├── auth/
+    │   ├── citizen/
+    │   ├── driver/
+    │   ├── traffic_controller/
+    │   └── admin/
+    │
+    ├── services/
+    │   ├── auth_service.dart
+    │   ├── firestore_service.dart
+    │   └── location_service.dart
+    │
+    ├── widgets/
+    │
+    └── main.dart
+```
+
+---
+
+## ◈ THE DATA ENVIRONMENT
+
+SERO uses Firebase services to support its application data.
+
+**Firestore collection structure**
+
+```text
+Firestore
 │
-├── pubspec.yaml
-├── README.md
-└── LICENSE
+├── users/
+├── drivers/
+├── traffic_controllers/
+├── emergencies/
+└── emergency_alerts/
 ```
 
 ---
 
-## ◈ 12 — INSTALLATION & CONFIGURATION
+## ◈ THE ROAD AHEAD
 
-### Repository
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:061B2B,100:073B59&text=THE%20NEXT%20GENERATION&fontSize=27&fontColor=00D4FF" width="100%"/>
+</p>
 
-```bash
-git clone https://github.com/kishoreb13/seroapp.git
-```
+The following are future development directions, not claims of completed functionality.
 
-### Project Setup
-
-```bash
-cd seroapp
-flutter pub get
-```
-
-### Firebase Configuration
-
-Configure Firebase for your own project.
-
-**Android**
-
-```text
-android/app/google-services.json
-```
-
-**iOS**
-
-```text
-ios/Runner/GoogleService-Info.plist
-```
-
-### Google Maps Configuration
-
-Add your Google Maps API key to:
-
-```text
-android/app/src/main/AndroidManifest.xml
-```
-
-```xml
-<meta-data
-    android:name="com.google.android.geo.API_KEY"
-    android:value="YOUR_API_KEY"/>
-```
-
-Never commit private API keys or service account credentials to a public repository.
-
-### Launch Application
-
-```bash
-flutter run
-```
+- [ ] AI-powered emergency severity prediction
+- [ ] Intelligent ambulance allocation
+- [ ] Advanced real-time emergency tracking
+- [ ] Firebase Cloud Messaging integration
+- [ ] Hospital readiness and coordination
+- [ ] Smart traffic corridor management
+- [ ] Advanced emergency analytics
+- [ ] Expanded real-time notifications
 
 ---
 
-## ◈ 13 — DEVELOPMENT ROADMAP
+## ◈ PROJECT IDENTITY
 
-| Feature | Development Direction |
-|---|---|
-| Citizen Emergency Module | Core platform |
-| Driver Management | Core platform |
-| Traffic Coordination | Core platform |
-| Admin Management | Core platform |
-| AI Severity Prediction | Planned enhancement |
-| Smart Ambulance Allocation | Planned enhancement |
-| Push Notifications | Planned enhancement |
-| Hospital Bed Availability | Planned enhancement |
-| Smart Traffic Signals | Future integration |
-| Voice-Activated SOS | Future integration |
-| Offline Emergency Mode | Future integration |
-| Wearable Integration | Future integration |
-| Predictive Emergency Analytics | Future integration |
+**SERO — Smart Emergency Response Orchestrator**
 
----
+Developed for **HCF Hackathon Mark 1**
 
-## ◈ 14 — HACKATHON ORIGIN
+📅 12 February 2026  
+📍 Dayananda Sagar University
 
-### HCF HACKATHON — MARK 1
+Organized with:
 
-**12 February 2026 | Dayananda Sagar University**
-
-SERO originated as a collaborative innovation project during HCF Hackathon — Mark 1.
-
-The event was organized in collaboration with:
-
-- Humans Care Foundation (HCF)
+- Humans Care Foundation
 - IEEE Computational Intelligence Society Student Branch, DSU
 - IEEE Robotics & Automation Society Student Branch, DSU
 
-The project represents Team Neurova's vision of applying technology, intelligent coordination, and real-time communication to emergency response challenges.
+### TEAM NEUROVA
+
+| Contributor |
+|---|
+| Ranjith Kumar G |
+| N. Vikas |
+| Manish |
+| Kishore B |
 
 ---
 
-## ◈ 15 — TEAM NEUROVA
-
 <p align="center">
-  <b>THE PEOPLE BEHIND SERO</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:073B59,100:030712&height=180&section=footer&text=EVERY%20SECOND%20MATTERS.&fontSize=27&fontColor=FFFFFF&fontAlignY=55" width="100%"/>
 </p>
 
-| Team Member | Contribution |
-|---|---|
-| Ranjith Kumar G | Team Neurova |
-| N. Vikas | Team Neurova |
-| Manish | Team Neurova |
-| Kishore B | Team Neurova |
-
-**A collaborative vision. One unified mission.**
+<p align="center">
+  <b>🚑 SERO — ONE SOS. ONE COORDINATED RESPONSE. ZERO DELAYS.</b>
+  <br/>
+  <sub>Technology with one purpose: making emergency response more connected.</sub>
+</p>
 
 ---
 
-## ◈ 16 — CONTRIBUTION GUIDELINES
-
-Contributions, improvements, and ideas are welcome.
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Implement your changes.
-4. Commit your work.
-5. Push your branch.
-6. Open a Pull Request.
-
-```bash
-git checkout -b feature/your-feature
-git add .
-git commit -m "feat: add your feature"
-git push origin feature/your-feature
-```
-
----
-
-## ◈ 17 — LICENSE
-
-This project is licensed under the MIT License.
-
-See the `LICENSE` file for complete licensing information.
-
----
-
-# 🌍 THE FUTURE OF EMERGENCY RESPONSE
-
 <p align="center">
-  <img src="https://img.shields.io/badge/BUILT_WITH-INNOVATION-00C9A7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/POWERED_BY-TECHNOLOGY-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DRIVEN_BY-PURPOSE-FF6B6B?style=for-the-badge" />
+  Made with precision by <b>TEAM NEUROVA</b> ⚡
 </p>
 
-<p align="center">
-  # 🚑 SERO
-  ### SMART EMERGENCY RESPONSE ORCHESTRATOR
-</p>
-
-<p align="center">
-  <i>Building a connected emergency ecosystem where intelligent technology enables faster decisions, seamless coordination, and better emergency response.</i>
-</p>
-
-<p align="center">
-  <b>ONE SOS. ONE COORDINATED RESPONSE. ZERO DELAYS.</b>
-</p>
-
-<p align="center">
-  Made with ❤️ by <b>TEAM NEUROVA</b>
-</p>
-
-<p align="center">
-  <sub>HCF Hackathon — Mark 1 | 2026</sub>
-</p>
+**License:** MIT (include this only if the repository contains the corresponding LICENSE file).
